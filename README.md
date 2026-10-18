@@ -1,3 +1,8 @@
+<img width="770" height="556" alt="bike-customer_insight-dashboard" src="https://github.com/user-attachments/assets/1cf93d5a-ebcd-4bf6-99a1-603a08c58478" />
+
+
+
+
 🚴 Bike Sales & Customer Behavior Analysis Dashboard
 
 📌 Project Overview
